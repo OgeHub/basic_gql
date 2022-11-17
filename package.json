@@ -1,0 +1,14 @@
+{
+  "name": "gqlbasics",
+  "version": "1.0.0",
+  "description": "Basic setup for gql api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Success Ezeh",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^16.6.0"
+  }
+}
